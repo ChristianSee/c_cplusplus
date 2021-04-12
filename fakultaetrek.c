@@ -1,7 +1,7 @@
 //*****************************************************
 //**                                                 **
 //** By: Christian Seepold,                          **
-//** Thema: Fakultaet Rekursiv                        **
+//** Thema: Fakultaet Rekursiv                       **
 //** Version 1.0                                     **
 //** Datum: 26.06.2018                               **
 //** Status: ready                                   **

@@ -11,8 +11,6 @@
 
 
 #include <stdio.h>
-#include <limits.h>'
-
 
 //Zahl umdrehen
 int turn (int n){
@@ -28,11 +26,11 @@ int turn (int n){
 
 //Hauptprogramm
 int main (void){
-    int x= INT_MAX/3; //1.Bsp.-Zahl
-    int y= 123456789; //2.Bsp.-Zahl
+    int x,y;
+    printf("Bitte Zahl eingeben \n");
+    scanf("%d",&x);
 
-    printf("1. Zahl Vorwaerts und Rueckwaerts: %d %d \n", x, turn(x));
-    printf("2. Zahl Vorwaerts und Rueckwaerts: %d %d \n", y, turn(y));
+    printf("Zahl Vorwaerts und Rueckwaerts: %d %d \n", x, turn(x));
 
     return 0;
     }
