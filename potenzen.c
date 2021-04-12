@@ -32,7 +32,7 @@ double potenz_normal( double x , int n )
   return y;
 }
 
-// Berechnung über Devide&Conquer Algorithmus
+// Berechnung über Divide&Conquer Algorithmus
 double potenz( double x , int n )
 {
   showtime();
