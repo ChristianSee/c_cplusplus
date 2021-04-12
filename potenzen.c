@@ -78,7 +78,7 @@ int main(void)
   scanf("%d",&n);
   printf("\n");
 
-  // Zeitberechnung und Ausführung des Devide&Conquer-Algorithmus
+  // Zeitberechnung und Ausführung des Divide&Conquer-Algorithmus
   start1 = clock();
   y = potenz(x,n);
 
